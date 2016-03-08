@@ -1,0 +1,7 @@
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Inicio\bin\Inicio.dll
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Inicio\bin\Inicio.pdb
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Inicio\bin\Newtonsoft.Json.dll
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Inicio\bin\Newtonsoft.Json.xml
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Inicio\obj\Debug\Inicio.csprojResolveAssemblyReference.cache
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Inicio\obj\Debug\Inicio.dll
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Inicio\obj\Debug\Inicio.pdb

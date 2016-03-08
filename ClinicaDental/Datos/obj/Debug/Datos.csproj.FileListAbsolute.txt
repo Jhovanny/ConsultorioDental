@@ -1,0 +1,5 @@
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Datos\bin\Debug\Datos.dll
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Datos\bin\Debug\Datos.pdb
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Datos\obj\Debug\Datos.dll
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,5 @@
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Entidades\bin\Debug\Entidades.dll
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Entidades\bin\Debug\Entidades.pdb
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Entidades\obj\Debug\Entidades.dll
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Entidades\obj\Debug\Entidades.pdb

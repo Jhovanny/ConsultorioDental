@@ -1,0 +1,5 @@
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Negocios\bin\Debug\Negocios.dll
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Negocios\bin\Debug\Negocios.pdb
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Negocios\obj\Debug\Negocios.dll
+C:\Users\FamiliaGV\Documents\Visual Studio 2012\Projects\ClinicaDental\Negocios\obj\Debug\Negocios.pdb
